@@ -1,0 +1,18 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_40615C76_53E7_F7CA_41D1_FB75BFFEB039.mp3Url = media/audio_40A83828_53E7_DF46_41B9_E2362F73EEC1_pt.mp3
+audiores_71288BC9_60A1_8261_41D2_35640756D173.mp3Url = media/audio_71CFD265_60A1_8221_41AD_190B6AC28A42_pt.mp3
+
+### Title
+panorama_5FBCA99D_53AA_B17F_41C7_B1D82459A221.label = REV00_SALA_CONQUISTA_01_360
+panorama_59162CBE_53AA_D0BA_41D1_F135F6222856.label = REV00_SALA_CONQUISTA_02_360
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Virtual 360° - Duplex Lote 27
